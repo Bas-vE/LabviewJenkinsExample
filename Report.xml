@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites>
-          <testsuite name="AddTest" errors="0" skipped="0" tests="3" failures="0" time="0,000" timestamp="2018-12-07T09:44:43">
-            <testcase classname="AddTest" name="Assert 10+10=20" time="0,000"/>
-            <testcase classname="AddTest" name="Assert 1+1=2" time="0,000"/>
-            <testcase classname="AddTest" name="Assert 2+2=4" time="0,000"/>
-          </testsuite>
-</testsuites>
